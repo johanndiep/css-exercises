@@ -1,0 +1,19 @@
+.pinkbox {
+    background-color: rgb(255, 146, 146);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.pinkbox.largetext{
+    font-size: 24px;
+}
+
+#bluetext {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#greenbox {
+    background-color: rgb(134, 255, 154);
+    font-size: 24px;
+    font-weight: bold;
+}
